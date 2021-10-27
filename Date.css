@@ -1,0 +1,30 @@
+.clock{
+    /* position: absolute; */
+    background-color: rgb(119, 31, 43);
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    margin-left: 550px;
+    justify-content: center;
+    color: white;
+    border-radius: 150px;
+    justify-content: space-evenly;
+}
+#date{
+    font-size: 2rem;
+}
+#day{
+    font-size: 2rem;
+}
+#time{
+    font-size: 3rem;
+}
+.header{
+    text-align: center;
+    font-size: 5rem;
+    margin: 0px;
+    color: yellowgreen;
+}
